@@ -18,6 +18,7 @@
             android:layout_gravity="center_horizontal"
             android:fontFamily="@font/inknut_antiqua"
             android:text="Anggota Kelompok 4 PBB"
+            android:textColor="#FFFFFF"
             android:textSize="14sp"
             android:textStyle="bold" />
 
